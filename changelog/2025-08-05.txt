@@ -1,0 +1,6 @@
+Changelog - Hoopscope 2025-08-05
+
+Initial project structure organization completed:
+- Created folders for code, blog, docs, assets, changelog, environment, report, and archive (Google Drive).
+- Initialized repository with README, contribution docs, and changelog starter.
+- Ready for code analysis and upgrade task (HTML, CSS, JS, accessibility, and AI API migration).
